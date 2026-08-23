@@ -1,0 +1,16 @@
+# Mengabaikan virtual environment
+venv/
+env/
+
+# Mengabaikan file cache Python
+__pycache__/
+*.pyc
+
+# Mengabaikan file eksperimen & dataset mentah
+*.ipynb
+*.ipynb_checkpoints/
+*.csv
+*.xlsx
+
+# Mengabaikan environment variables (jika nanti ada)
+.env
