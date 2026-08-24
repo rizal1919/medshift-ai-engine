@@ -151,69 +151,7 @@ def predict_besok(data: PrediksiSimpleInput):
         "estimasi_keterlambatan": estimasi
     }
 
-# ==========================================
-# 5. ENDPOINT DATA MASTER (Opsional / Legacy)
-# ==========================================
-@app.get("/api/master/unit-kerja", summary="Ambil Daftar Master Unit Kerja")
-def get_master_unit_kerja():
-    daftar_unit = [
-        fitur.replace('Unit_Kerja_', '') 
-        for fitur in fitur_wajib 
-        if fitur.startswith('Unit_Kerja_') 
-        and not fitur.replace('Unit_Kerja_', '').startswith(('DEPARTEMEN', 'DEPT.'))
-    ]
-    daftar_unit.sort()
-    return {"total": len(daftar_unit), "data": daftar_unit}
 
-@app.get("/api/master/shift", summary="Ambil Daftar Master Shift")
-def get_master_shift():
-    return {
-        "data": [
-            {"id": 1, "nama": "Shift Pagi (07:00)"},
-            {"id": 2, "nama": "Shift Siang (14:00)"},
-            {"id": 3, "nama": "Shift Malam (21:00)"}
-        ]
-    }
-
-# ==========================================
-# 6. ENDPOINT PELENGKAP (UTILITY)
-# ==========================================
-@app.get("/api/karyawan/{npp}/habit", summary="Cek Track Record Keterlambatan")
-def get_karyawan_habit(npp: str):
-    riwayat = kamus_riwayat.get(npp, 0.0)
-    persentase = riwayat * 100
-    
-    if persentase > 50:
-        status = "Sangat Buruk (Sering Telat)"
-    elif persentase > 20:
-        status = "Kurang Baik (Cukup Sering Telat)"
-    elif persentase > 5:
-        status = "Baik (Jarang Telat)"
-    else:
-        status = "Sangat Disiplin"
-        
-    return {
-        "npp": npp,
-        "riwayat_telat_value": riwayat,
-        "persentase_string": f"{persentase:.1f}%",
-        "status_habit": status
-    }
-
-@app.get("/api/health", summary="Cek Status Server (System Health)")
-def health_check():
-    import datetime
-    return {
-        "status": "Online",
-        "service": "MedShift AI Engine",
-        "version": "4.1.0",
-        "model_accuracy": "84.14%",
-        "server_time": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    }
-
-
-# ==========================================
-# 7. ENDPOINT PREDICT BULK
-# ==========================================
 @app.post("/api/predict-bulk", summary="Prediksi Massal (Banyak NPP Sekaligus)")
 def predict_bulk(data: PrediksiBulkInput):
     # 1. Tarik cuaca dan olah tanggal SATU KALI saja untuk seluruh rombongan
@@ -302,4 +240,64 @@ def predict_bulk(data: PrediksiBulkInput):
     }
 
 
+
+
+# ==========================================
+# 5. ENDPOINT DATA MASTER (Opsional / Legacy)
+# ==========================================
+@app.get("/api/master/unit-kerja", summary="Ambil Daftar Master Unit Kerja")
+def get_master_unit_kerja():
+    daftar_unit = [
+        fitur.replace('Unit_Kerja_', '') 
+        for fitur in fitur_wajib 
+        if fitur.startswith('Unit_Kerja_') 
+        and not fitur.replace('Unit_Kerja_', '').startswith(('DEPARTEMEN', 'DEPT.'))
+    ]
+    daftar_unit.sort()
+    return {"total": len(daftar_unit), "data": daftar_unit}
+
+@app.get("/api/master/shift", summary="Ambil Daftar Master Shift")
+def get_master_shift():
+    return {
+        "data": [
+            {"id": 1, "nama": "Shift Pagi (07:00)"},
+            {"id": 2, "nama": "Shift Siang (14:00)"},
+            {"id": 3, "nama": "Shift Malam (21:00)"}
+        ]
+    }
+
+# ==========================================
+# 6. ENDPOINT PELENGKAP (UTILITY)
+# ==========================================
+@app.get("/api/karyawan/{npp}/habit", summary="Cek Track Record Keterlambatan")
+def get_karyawan_habit(npp: str):
+    riwayat = kamus_riwayat.get(npp, 0.0)
+    persentase = riwayat * 100
+    
+    if persentase > 50:
+        status = "Sangat Buruk (Sering Telat)"
+    elif persentase > 20:
+        status = "Kurang Baik (Cukup Sering Telat)"
+    elif persentase > 5:
+        status = "Baik (Jarang Telat)"
+    else:
+        status = "Sangat Disiplin"
+        
+    return {
+        "npp": npp,
+        "riwayat_telat_value": riwayat,
+        "persentase_string": f"{persentase:.1f}%",
+        "status_habit": status
+    }
+
+@app.get("/api/health", summary="Cek Status Server (System Health)")
+def health_check():
+    import datetime
+    return {
+        "status": "Online",
+        "service": "MedShift AI Engine",
+        "version": "4.1.0",
+        "model_accuracy": "84.14%",
+        "server_time": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    }
 
