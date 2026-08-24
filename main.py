@@ -1,5 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
+from typing import List
 import joblib
 import pandas as pd
 import json
@@ -38,6 +39,11 @@ except FileNotFoundError:
 class PrediksiSimpleInput(BaseModel):
     npp: str = Field(..., example="2365")
     tanggal: str = Field(..., description="Format YYYY-MM-DD", example="2026-08-24")
+    ShiftKerja: int = Field(..., description="1 (Pagi), 2 (Siang), 3 (Malam)", example=1)
+
+class PrediksiBulkInput(BaseModel):
+    npps: List[str] = Field(..., example=["2365", "0652", "1010"])
+    tanggal: str = Field(..., description="Format YYYY-MM-DD", example="2026-08-25")
     ShiftKerja: int = Field(..., description="1 (Pagi), 2 (Siang), 3 (Malam)", example=1)
     
 # ==========================================
@@ -203,3 +209,97 @@ def health_check():
         "model_accuracy": "84.14%",
         "server_time": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     }
+
+
+# ==========================================
+# 7. ENDPOINT PREDICT BULK
+# ==========================================
+@app.post("/api/predict-bulk", summary="Prediksi Massal (Banyak NPP Sekaligus)")
+def predict_bulk(data: PrediksiBulkInput):
+    # 1. Tarik cuaca dan olah tanggal SATU KALI saja untuk seluruh rombongan
+    cuaca = get_weather_forecast(data.tanggal, data.ShiftKerja)
+    tgl_obj = datetime.datetime.strptime(data.tanggal, "%Y-%m-%d")
+    is_weekend = 1 if tgl_obj.weekday() >= 5 else 0
+    is_hari_gajian = 1 if tgl_obj.day in [25, 26] else 0
+    is_tanggal_tua = 1 if 20 <= tgl_obj.day <= 24 else 0
+    nama_hari = tgl_obj.strftime('%A')
+    
+    data_mentah_list = []
+    hasil_respon = []
+    npp_valid = []
+    
+    # 2. Looping untuk merakit data masing-masing NPP
+    for npp in data.npps:
+        if npp not in master_pegawai:
+            # Jika NPP tidak ada, catat sebagai error tapi lanjutkan proses yang lain
+            hasil_respon.append({
+                "npp": npp,
+                "error": "NPP tidak ditemukan di database"
+            })
+            continue
+            
+        unit_kerja = master_pegawai[npp].get("Unit_Kerja", "LAIN-LAIN")
+        status_kepeg = master_pegawai[npp].get("Status_Kepegawaian", "Pegawai Tetap")
+        riwayat = kamus_riwayat.get(npp, 0.1)
+        
+        data_mentah = {
+            "ShiftKerja": data.ShiftKerja,
+            "suhu": cuaca["suhu"],
+            "kelembapan": cuaca["kelembapan"],
+            "rain": cuaca["rain"],
+            "is_weekend": is_weekend,
+            "is_hari_gajian": is_hari_gajian,
+            "is_tanggal_tua": is_tanggal_tua,
+            "riwayat_telat": riwayat,
+            "Unit_Kerja": unit_kerja,
+            "Status_Kepegawaian": status_kepeg,
+            "nama_hari": nama_hari
+        }
+        data_mentah_list.append(data_mentah)
+        npp_valid.append(npp) # Simpan urutan NPP yang valid
+        
+    # Jika tidak ada satupun NPP yang valid, langsung kembalikan error
+    if not data_mentah_list:
+        return {"pesan": "Semua NPP yang dikirim tidak ditemukan", "hasil": hasil_respon}
+        
+    # 3. Jadikan satu DataFrame (Pandas akan memprosesnya sekaligus, sangat cepat!)
+    df_input = pd.DataFrame(data_mentah_list)
+    df_encoded = pd.get_dummies(df_input, columns=['Unit_Kerja', 'Status_Kepegawaian', 'nama_hari'])
+    df_prediksi = df_encoded.reindex(columns=fitur_wajib, fill_value=0)
+    
+    # 4. Prediksi Massal
+    prediksi_labels = model.predict(df_prediksi)
+    prediksi_probs = model.predict_proba(df_prediksi)[:, 1] # Ambil probabilitas kelas 1 (Telat)
+    
+    # 5. Gabungkan hasil prediksi dengan NPP yang valid
+    for i, npp in enumerate(npp_valid):
+        is_late = int(prediksi_labels[i])
+        prob_telat = prediksi_probs[i]
+        
+        if is_late == 0:
+            estimasi = "Tepat Waktu"
+        elif prob_telat > 0.85:
+            estimasi = "> 30 Menit"
+        elif prob_telat > 0.65:
+            estimasi = "15 - 30 Menit"
+        else:
+            estimasi = "< 15 Menit"
+            
+        hasil_respon.append({
+            "npp": npp,
+            "unit_kerja": master_pegawai[npp].get("Unit_Kerja", "LAIN-LAIN"),
+            "is_late": is_late,
+            "probabilitas_telat": f"{prob_telat * 100:.1f}%",
+            "estimasi_keterlambatan": estimasi
+        })
+        
+    return {
+        "tanggal": data.tanggal,
+        "shift": data.ShiftKerja,
+        "cuaca": f"Suhu {cuaca['suhu']}°C, Hujan {cuaca['rain']}mm",
+        "total_diproses": len(data.npps),
+        "hasil_prediksi": hasil_respon
+    }
+
+
+
