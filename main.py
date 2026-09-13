@@ -39,7 +39,7 @@ const params = new URLSearchParams([
 ]);
 
 // URL akan otomatis terformat dengan benar
-const url = `[http://103.247.10.116:8000/api/master/pegawai-filter?$](http://103.247.10.116:8000/api/master/pegawai-filter?$){params.toString()}`;
+const url = `[http://103.247.10.116:8000/api/master/pegawai-filter?${params.toString()}`;
 
 fetch(url, {
     method: 'GET',
