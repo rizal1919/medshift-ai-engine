@@ -1,90 +1,16 @@
-from fastapi import FastAPI, HTTPException, Depends, Query, status
-from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
+from fastapi import FastAPI, HTTPException, Query, status
 from pydantic import BaseModel, Field
 from typing import List, Optional
 import joblib
 import pandas as pd
 import json
 import datetime
-from datetime import timedelta, timezone
 import requests
-import jwt
-
-
-description_text = """
-# MedShift AI - Panduan Integrasi Frontend
-
-Halo Tim Frontend! 👋
-API ini dilindungi oleh otentikasi **JWT (JSON Web Token)** standar *Enterprise*. Untuk mengakses data presensi atau melakukan prediksi, ikuti 2 langkah berikut:
-
-### LANGKAH 1: Request Access Token (Otentikasi M2M)
-Sebelum menembak endpoint utama, sistem frontend wajib meminta *token* terlebih dahulu. Token ini berlaku selama 60 menit.
-- **Endpoint:** `POST /api/auth/login`
-- **Tipe Body:** `x-www-form-urlencoded`
-- **Kredensial:**
-    - `username` (Client ID): `medshift_core_app`
-    - `password` (Client Secret): **[NOT THIS TIME, TRY TO HACK US!]**
-
-### LANGKAH 2: Sisipkan Token di Headers
-Setelah mendapat balasan berupa *access token*, sisipkan token tersebut di **Headers** pada setiap request ke endpoint lain.
-- **Key:** `Authorization`
-- **Value:** `Bearer <TOKEN_DARI_LANGKAH_1>`
-
-#### Contoh Penggunaan (JavaScript/Fetch) untuk Tarik Data Filter Unit Kerja:
-```javascript
-// Karena nama unit mengandung spasi dan tanda kurung, sangat disarankan menggunakan URLSearchParams
-const params = new URLSearchParams([
-    ['unit', 'E.D.P. (TEKNOLOGI INFORMASI)'],
-    ['unit', 'ENDOSCOPY']
-]);
-
-// URL akan otomatis terformat dengan benar
-const url = `[http://103.247.10.116:8000/api/master/pegawai-filter?${params.toString()}`;
-
-fetch(url, {
-    method: 'GET',
-    headers: {
-        'Authorization': 'Bearer eyJhbGciOiJIUzI1...' // Ganti dengan token dari Langkah 1
-    }
-})
-.then(res => res.json())
-.then(data => console.log(data))
-.catch(err => console.error("Error API:", err));
-"""
 
 app = FastAPI(
     title="MedShift AI Engine",
-    description=description_text,
     version="4.3.0"
 )
-
-# ==========================================
-# 0. KONFIGURASI KEAMANAN (JWT)
-# ==========================================
-SECRET_KEY = "rahasia_medshift_rs_adi_husada_2026" # Key enkripsi
-ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 60 # Expired dalam 1 jam
-
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/api/auth/login")
-
-def create_access_token(data: dict, expires_delta: timedelta):
-    to_encode = data.copy()
-    expire = datetime.datetime.now(timezone.utc) + expires_delta
-    to_encode.update({"exp": expire})
-    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
-    return encoded_jwt
-
-def verify_token(token: str = Depends(oauth2_scheme)):
-    try:
-        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
-        username: str = payload.get("sub")
-        if username is None:
-            raise HTTPException(status_code=401, detail="Kredensial tidak valid")
-        return username
-    except jwt.ExpiredSignatureError:
-        raise HTTPException(status_code=401, detail="Token sudah expired! Silakan login ulang.")
-    except jwt.InvalidTokenError:
-        raise HTTPException(status_code=401, detail="Token rusak atau tidak valid.")
 
 # ==========================================
 # 1. LOAD MODEL & DATA MASTER
@@ -144,30 +70,10 @@ def get_weather_forecast(tanggal: str, shift: int):
     return {"suhu": 28.0, "kelembapan": 70.0, "rain": 0.0}
 
 # ==========================================
-# 4. ENDPOINT OTORISASI LOGIN
-# ==========================================
-@app.post("/api/auth/login", summary="Otentikasi Sistem (Dapatkan Access Token)")
-def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends()):
-    # Di dunia profesional, 'username' bertindak sebagai Client ID 
-    # dan 'password' bertindak sebagai Client Secret
-    CLIENT_ID = "medshift_core_app"
-    CLIENT_SECRET = "Capstone_Medshift@2026!"
-    
-    if form_data.username != CLIENT_ID or form_data.password != CLIENT_SECRET:
-        raise HTTPException(status_code=401, detail="Client ID atau Client Secret tidak valid")
-        
-    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
-    access_token = create_access_token(
-        data={"sub": form_data.username}, 
-        expires_delta=access_token_expires
-    )
-    return {"access_token": access_token, "token_type": "bearer"}
-
-# ==========================================
-# 5. ENDPOINT UTAMA (PREDIKSI) -> DILINDUNGI TOKEN
+# 4. ENDPOINT UTAMA (PREDIKSI) -> TANPA TOKEN
 # ==========================================
 @app.post("/api/predict-besok", summary="Prediksi Individu")
-def predict_besok(data: PrediksiSimpleInput, current_user: str = Depends(verify_token)):
+def predict_besok(data: PrediksiSimpleInput):
     if data.npp not in master_pegawai:
         raise HTTPException(status_code=404, detail=f"NPP {data.npp} tidak ditemukan")
         
@@ -226,7 +132,7 @@ def predict_besok(data: PrediksiSimpleInput, current_user: str = Depends(verify_
 
 
 @app.post("/api/predict-bulk", summary="Prediksi Massal (Banyak NPP Sekaligus)")
-def predict_bulk(data: PrediksiBulkInput, current_user: str = Depends(verify_token)):
+def predict_bulk(data: PrediksiBulkInput):
     cuaca = get_weather_forecast(data.tanggal, data.ShiftKerja)
     tgl_obj = datetime.datetime.strptime(data.tanggal, "%Y-%m-%d")
     is_weekend = 1 if tgl_obj.weekday() >= 5 else 0
@@ -313,8 +219,7 @@ def predict_bulk(data: PrediksiBulkInput, current_user: str = Depends(verify_tok
 @app.get("/api/predict-all-grouped", summary="Prediksi SELURUH Pegawai (Di-Group by Estimasi)")
 def predict_all_grouped(
     tanggal: str = Query(..., description="Format YYYY-MM-DD", example="2026-08-25"),
-    shift: int = Query(..., description="1 (Pagi), 2 (Siang), 3 (Malam)", example=1),
-    current_user: str = Depends(verify_token)
+    shift: int = Query(..., description="1 (Pagi), 2 (Siang), 3 (Malam)", example=1)
 ):
     # 1. Tarik cuaca dan tanggal
     cuaca = get_weather_forecast(tanggal, shift)
@@ -412,12 +317,11 @@ def predict_all_grouped(
         "data_kategori": hasil_group
     }
 
-
 # ==========================================
-# 6. ENDPOINT DATA MASTER (Terproteksi JWT)
+# 5. ENDPOINT DATA MASTER (TANPA TOKEN)
 # ==========================================
 @app.get("/api/master/pegawai", summary="Ambil Daftar SEMUA Pegawai (Tanpa Filter)")
-def get_semua_pegawai(current_user: str = Depends(verify_token)):
+def get_semua_pegawai():
     daftar_pegawai = []
     
     for npp, info in master_pegawai.items():
@@ -446,9 +350,8 @@ def get_pegawai_filter(
     kd_bagian: List[str] = Query(
         None, 
         description="Filter berdasarkan Kode Bagian. Klik 'Add string item' untuk menggabungkan banyak kode.",
-        example=["E.D.P. (TEKNOLOGI INFORMASI)']", "ENDOSCOPY"] # <--- Sesuaikan dengan contoh kode bagian aslimu
-    ),
-    current_user: str = Depends(verify_token)
+        example=["E.D.P. (TEKNOLOGI INFORMASI)", "ENDOSCOPY"]
+    )
 ):
     daftar_pegawai = []
     
@@ -476,7 +379,7 @@ def get_pegawai_filter(
     }
 
 @app.get("/api/master/unit-kerja", summary="Ambil Daftar Master Unit Kerja & Kode Bagian")
-def get_master_unit_kerja(current_user: str = Depends(verify_token)):
+def get_master_unit_kerja():
     # Mengumpulkan pasangan unik kd_bagian dan Unit_Kerja dari JSON
     unit_unik = {}
     
@@ -500,10 +403,10 @@ def get_master_unit_kerja(current_user: str = Depends(verify_token)):
     return {"total": len(daftar_unit), "data": daftar_unit}
 
 # ==========================================
-# 7. ENDPOINT PELENGKAP (UTILITY)
+# 6. ENDPOINT PELENGKAP (UTILITY)
 # ==========================================
 @app.get("/api/karyawan/{npp}/habit", summary="Cek Track Record Keterlambatan")
-def get_karyawan_habit(npp: str, current_user: str = Depends(verify_token)):
+def get_karyawan_habit(npp: str):
     riwayat = kamus_riwayat.get(npp, 0.0)
     persentase = riwayat * 100
     
@@ -522,17 +425,5 @@ def health_check():
     return {
         "status": "Online", "service": "MedShift AI Engine", "version": "4.3.0",
         "server_time": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "security": "JWT Active"
+        "security": "NONE"
     }
-
-
-
-
-
-
-
-
-
-
-
-
