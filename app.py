@@ -10,9 +10,9 @@ st.write("Dashboard analitik untuk memprediksi probabilitas keterlambatan staf m
 # 2. Load Model & Fitur
 @st.cache_resource
 def load_model():
-    # Sesuaikan dengan nama file model terakhirmu
-    model = joblib.load('medshift_model_ultimate.pkl') 
-    fitur = joblib.load('medshift_features_ultimate.pkl')
+    # Ubah nama file di bawah ini menjadi v2
+    model = joblib.load('medshift_model_v2.pkl') 
+    fitur = joblib.load('medshift_features_v2.pkl')
     return model, fitur
 
 try:
