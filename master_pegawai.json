@@ -2,8 +2,8 @@
     "0652": {
         "nama": "URIF NURCHASANAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "0671": {
         "nama": NaN,
@@ -20,62 +20,62 @@
     "0693": {
         "nama": "MULYANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ENDOSCOPY",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > ENDOSCOPY"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "ENDOSCOPY"
     },
     "0695": {
         "nama": "PUDJI LESTARI (B)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK KANDUNGAN",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK KANDUNGAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK KANDUNGAN"
     },
     "0717": {
         "nama": "SITI CHOTIMAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "0718": {
         "nama": "CHRISDIANA NUR JULIJANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "0722": {
         "nama": "IDA WAHYUNI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "0760": {
         "nama": "ATIK PURWANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "0767": {
         "nama": "JAJUK HANDAJANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "0778": {
         "nama": "ENI IRAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "0779": {
         "nama": "SRI WILUDJENG",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "0783": {
         "nama": "RINA RISTANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "0796": {
         "nama": NaN,
@@ -86,56 +86,56 @@
     "0797": {
         "nama": "ENDANG SUSILOWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PERAWATAN",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. PERAWATAN"
     },
     "0801": {
         "nama": "ERTINA ANGGRAINI, S.KEP. NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "OK/RR"
     },
     "0806": {
         "nama": "NINIS INDARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "0810": {
         "nama": "PUDJI PURWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "0813": {
         "nama": "ROKHAENI DIEN SIANTURY",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "0816": {
         "nama": "SOELISTYOWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "0817": {
         "nama": "SRI ERNAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "0820": {
         "nama": "SULASTRI (C)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "0860": {
         "nama": "MURYATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "0862": {
         "nama": NaN,
@@ -146,344 +146,344 @@
     "0870": {
         "nama": "CATUR PRASETYONINGRUM, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "0876": {
         "nama": "RINI SETIYOWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "0879": {
         "nama": "SAPTA WIBAWANINGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "0880": {
         "nama": "SETYANINGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "0882": {
         "nama": "SULASTINAH,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "0885": {
         "nama": "TRIYANA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CSSD",
+        "kd_bagian": "Koordinator",
         "Unit_Kerja": "CSSD"
     },
     "0889": {
         "nama": "ALIK PUJIONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CSSD",
+        "kd_bagian": "-",
         "Unit_Kerja": "CSSD"
     },
     "0890": {
         "nama": "FITRI SUPRIYATIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "0918": {
         "nama": "LILIK WIDYAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "0929": {
         "nama": "ENY LUDIHAYATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "0930": {
         "nama": "GIHARTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "0934": {
         "nama": "OLIVIA BANNI HAE",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "0935": {
         "nama": "RINA SURYANTINI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "0937": {
         "nama": "SUMARNI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "0950": {
         "nama": "NANA NOVIANA, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "0958": {
         "nama": "NI LUH GEDE ASTUTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "0962": {
         "nama": "JAYUSMAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "0975": {
         "nama": "AYEM ASIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "0978": {
         "nama": "EMY SISWANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "0981": {
         "nama": "ERLINAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "0994": {
         "nama": "NURHAYATI (B)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "0997": {
         "nama": "PRAPTININGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "0998": {
         "nama": "SERSANA SEPTIANIK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1001": {
         "nama": "SULASTRI (D)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1002": {
         "nama": "SUMIATI (D)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1003": {
         "nama": "TRININGSIH UTAMI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1004": {
         "nama": "WAHYU INDRAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1005": {
         "nama": "YENIK WIDIASTUTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1006": {
         "nama": "YULI AGUSTIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RUANG J3"
     },
     "1007": {
         "nama": "YULI SARAS ASIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1013": {
         "nama": "AMBAR CAHYANINGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1016": {
         "nama": "RINI ANJANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1019": {
         "nama": "INDRAWATY, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1028": {
         "nama": "DESY LUSIATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1029": {
         "nama": "DWI ASMAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1030": {
         "nama": "DWIE RETNO SRI SURYO WULAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1035": {
         "nama": "CHORIATIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "1036": {
         "nama": "MUSRIATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "1042": {
         "nama": "DESAK PUTU SUTARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1044": {
         "nama": "AGUSTINA INDAH SETYOWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1047": {
         "nama": "DEWI MULYANINGRUM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1048": {
         "nama": "DYAH ARIYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1051": {
         "nama": "HARUMI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1058": {
         "nama": "PUJI UTAMI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RUANG A2"
     },
     "1059": {
         "nama": "RINA SUHARTINI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1062": {
         "nama": "SUSILOWATI (C)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1064": {
         "nama": "WIYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1066": {
         "nama": "EMY WISNANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK STROKE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK STROKE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK STROKE"
     },
     "1067": {
         "nama": "NUR HIDAYATI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ENDOSCOPY",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > ENDOSCOPY"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ENDOSCOPY"
     },
     "1072": {
         "nama": "RINI WIDAYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT PEMASARAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. UNIT PEMASARAN"
     },
     "1074": {
         "nama": "BUDI SETIONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMELIHARAAN SIPIL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMELIHARAAN SIPIL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMELIHARAAN SIPIL"
     },
     "1076": {
         "nama": "MOHAMMAD YUSUP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "1079": {
         "nama": "JOHANA ENDANG SETIYOWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK KANDUNGAN",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK KANDUNGAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK KANDUNGAN"
     },
     "1083": {
         "nama": "RUDHIYANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "1090": {
         "nama": "MOERTI TJAHJANINGTYAS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1092": {
         "nama": "SAVITRI WISNUWARDHANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. MEDIS > PEMBELIAN MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMBELIAN MEDIS"
     },
     "1095": {
         "nama": "NURWIDAYATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1098": {
         "nama": NaN,
@@ -494,1916 +494,1916 @@
     "1106": {
         "nama": "YAYUK RATNANINGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1108": {
         "nama": "ANA YUNI ASTUTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PERAWATAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PERAWATAN"
     },
     "1115": {
         "nama": "HARTANTI UTAMI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT RAWAT INAP I",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM. UNIT RAWAT INAP I"
     },
     "1123": {
         "nama": "NURMAWATI (B)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1127": {
         "nama": "SUKARTIN, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HOME CARE",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT ASUHAN KEPRWTN,HOMECARE & GIZI > HOME CARE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HOME CARE"
     },
     "1128": {
         "nama": "SULIS MURDIYANI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1129": {
         "nama": "UMI INDAYATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1140": {
         "nama": "MENIK MURAHATI, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1141": {
         "nama": "NURUL MU`IDAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RUANG H2"
     },
     "1142": {
         "nama": "SUWARNO, A.MD. KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1146": {
         "nama": "YUNIARTININGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1148": {
         "nama": "SITI MOAMAROCH, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1159": {
         "nama": "SHOLYKHATIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1160": {
         "nama": "SONY SUHARSONO, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1161": {
         "nama": "NUNIK ARIANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "1162": {
         "nama": "SRI ANIK (B)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1163": {
         "nama": "AMBARWATY, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PERAWATAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PERAWATAN"
     },
     "1173": {
         "nama": "ITTA KURNIAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1177": {
         "nama": "NURUL CANDRAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1195": {
         "nama": "WARTINI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1199": {
         "nama": "KRISTINA MARIANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1211": {
         "nama": "VERA LIANDO, S.SI., APT.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. LOGISTIK",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. LOGISTIK"
     },
     "1213": {
         "nama": "PARGUNARTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1214": {
         "nama": "YUSI LAILATUN NUJULIYATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1217": {
         "nama": "MOCHAMMAD FIRDAUS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "BILLING",
+        "kd_bagian": "-",
         "Unit_Kerja": "BILLING"
     },
     "1218": {
         "nama": "YONI YULIANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "1220": {
         "nama": "WIDI LESTARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "B O G A",
+        "kd_bagian": "-",
         "Unit_Kerja": "B O G A"
     },
     "1221": {
         "nama": "ANIK ANDRIYANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "1222": {
         "nama": "ANISAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1225": {
         "nama": "DINA NOVITA, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT RAWAT INAP II",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM. UNIT RAWAT INAP II"
     },
     "1227": {
         "nama": "EKA RIFKA NUWITA, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1231": {
         "nama": "HAJAR TRILESTARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1237": {
         "nama": "ROSE IKE ANDRIANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1244": {
         "nama": "YUNI WINARNI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1249": {
         "nama": "ROES DINA FITRIANA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1255": {
         "nama": "WIEKE NOVIANA SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LINEN",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > LINEN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LINEN"
     },
     "1266": {
         "nama": "SITI MAISAROH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CSSD",
+        "kd_bagian": "-",
         "Unit_Kerja": "CSSD"
     },
     "1277": {
         "nama": "EKO PURWATI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1284": {
         "nama": "HASYIM ASY`ARI, AMD.FIS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1288": {
         "nama": "WARNI ENGGARWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "1289": {
         "nama": "FAIS AHADIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1291": {
         "nama": "WAHYU RINANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1302": {
         "nama": "RIRIN FUJI AGUSTIN, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK PARU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK PARU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK PARU"
     },
     "1304": {
         "nama": "SENTRI MUCHTI KARYANI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1305": {
         "nama": "SERSANA WAHYUNINGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1312": {
         "nama": "YUYUN INDARWATI, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1315": {
         "nama": "INDAH KUSUMAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1321": {
         "nama": "DYAN KARTIKA, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1326": {
         "nama": "NURAINI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1327": {
         "nama": "SETIYA BUDI, S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1328": {
         "nama": "SITI MUNAWAROH, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1337": {
         "nama": "SUCIATI (C), A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1350": {
         "nama": "ANY TRIAGUSTINI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1352": {
         "nama": "DWI ERNAWATI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1354": {
         "nama": "HENY SUKMAWATI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1356": {
         "nama": "NURDJIYATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1364": {
         "nama": "IKE PRASETYOWATI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1367": {
         "nama": "ALI MASHAR, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1368": {
         "nama": "ELISKE HAPSARI PATRIYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1370": {
         "nama": "EDI HARIYANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1371": {
         "nama": "KASYFUL ANWAR, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1378": {
         "nama": "SLAMET JOKO RAHMONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1384": {
         "nama": "HENI DWI LESTARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RUANG D4"
     },
     "1385": {
         "nama": "IRMA FERDIANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1403": {
         "nama": "SRI WAHYUNI CHRISTIANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1407": {
         "nama": "DWI KURNIAWAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1411": {
         "nama": "EVI DESNAULI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1412": {
         "nama": "HIDAYATUL AZIZAH, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "Ka. Ru/ Ka. Sub. Unit",
+        "Unit_Kerja": "RUANG D2"
     },
     "1413": {
         "nama": "IKA YUNITA, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1414": {
         "nama": "NANGUN ARIO SANTIO ATMOKO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1417": {
         "nama": "PRIHATIN IIN SUWARNI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1419": {
         "nama": "SITI SURANI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1420": {
         "nama": "SUCIANI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1423": {
         "nama": "WIWIK ANDAYANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1438": {
         "nama": "LILIS WINDHARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1440": {
         "nama": "NANIK SULISTYOWATI (B), S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ENDOSCOPY",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > ENDOSCOPY"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ENDOSCOPY"
     },
     "1450": {
         "nama": "WIWIK PURWANTI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1452": {
         "nama": "WIWIT HERNIAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1454": {
         "nama": "YEYEN ARISTA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1461": {
         "nama": "WAHYU BINTORO,ST.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT PEMELIHARAAN",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > UNIT PEMELIHARAAN"
+        "kd_bagian": "Kasubag / Kanit",
+        "Unit_Kerja": "UNIT PEMELIHARAAN"
     },
     "1470": {
         "nama": "DANI SANTOSO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL. TEHNIK MEDIK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL. TEHNIK MEDIK"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "PEMEL. TEHNIK MEDIK"
     },
     "1476": {
         "nama": "CHRISTIWIYANDARU PRODOKISWORO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "1477": {
         "nama": "DWI WIJAYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1479": {
         "nama": "FITRI HANDAYANI, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1484": {
         "nama": "I MADE SUARNAWA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "B O G A",
+        "kd_bagian": "-",
         "Unit_Kerja": "B O G A"
     },
     "1487": {
         "nama": "RIZA NUR AZIZAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1488": {
         "nama": "DWI PUSPITA SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1494": {
         "nama": "MOCHAMAD IMAM BUCHORI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "1500": {
         "nama": "DWI MAYANG SARI INDAH KUSUMA WARDANI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1502": {
         "nama": "EKA KUSUMA WARDHANI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1504": {
         "nama": "ELOK PURI ASTUTIK,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1505": {
         "nama": "HERVIATI NUSA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1509": {
         "nama": "INDAH SETIYAWATI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1515": {
         "nama": "SUNDARI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1519": {
         "nama": "YANTI WAHYUSARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1528": {
         "nama": "MOCHAMAD SOLIKUL ARIF, A.MD",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "1529": {
         "nama": "IKE AGENG SETYAWAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "1531": {
         "nama": "EDI SUHERI, A.MD.RAD",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "1532": {
         "nama": "CATUR PUSPITA SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1533": {
         "nama": "DEVI SAPUTRI ANGGRAINI, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1534": {
         "nama": "OKTI NURLAELY",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT ACCOUNTING",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM. UNIT ACCOUNTING"
     },
     "1539": {
         "nama": "KRISTIANTO TRI PAMUNGKAS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMELIHARAAN SIPIL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMELIHARAAN SIPIL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMELIHARAAN SIPIL"
     },
     "1551": {
         "nama": "ANGGRAINY DIAH FATMAWATI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1552": {
         "nama": "DESY ARIYANTI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "1557": {
         "nama": "LEVY KURNIANTY, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1564": {
         "nama": "CITRA NAWANG PRADESTY, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1567": {
         "nama": "NUR KHUSNUL CHOTIMAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "1579": {
         "nama": "YULIA KURNIAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1587": {
         "nama": "RAHAYU",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1592": {
         "nama": "DIAN FITRIA PURNAMASARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1596": {
         "nama": "MARIANA YUNIARTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1613": {
         "nama": "LILIS AGUSTINA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1619": {
         "nama": "SARI WIDIASTUTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1630": {
         "nama": "DEWI TRYANA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN NON MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. NON MEDIS > PEMBELIAN NON MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMBELIAN NON MEDIS"
     },
     "1635": {
         "nama": "AGUNG DWI HARSONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "B O G A",
+        "kd_bagian": "-",
         "Unit_Kerja": "B O G A"
     },
     "1637": {
         "nama": "DANY RIYANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "1642": {
         "nama": "DR. WAHYU SETIANI WIBOWO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1648": {
         "nama": "DIAN RAHMADHAN, S.KEP., NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1649": {
         "nama": "DICKY RACHMATSYAH,S.KEP., NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1653": {
         "nama": "FRILA GRACE JULIANA NAINGGOLAN, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1655": {
         "nama": "NICO MARDA DWI MULYO, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1656": {
         "nama": "RATIH ANGGRAINI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1657": {
         "nama": "RIZKY DWI PRATIWI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1664": {
         "nama": "YOGI MURSITO,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1671": {
         "nama": "EVI DWI INDRAWATI,AMD.KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1672": {
         "nama": "SUTRISNAWATI,S.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1675": {
         "nama": "DAVID KRISTIAWAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMELIHARAAN SIPIL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMELIHARAAN SIPIL"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "PEMELIHARAAN SIPIL"
     },
     "1676": {
         "nama": "RIA DAMAYANTI NINGTYAS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "1678": {
         "nama": "ANGGRAENI EKA PERMATA SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1681": {
         "nama": "ANISA SETIYO RANI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1683": {
         "nama": "AYU PURWANTI, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1684": {
         "nama": "BETA SILVIA RITANTI, AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1689": {
         "nama": "GLORYTTA NANDA MOELJONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1703": {
         "nama": "WIDHAYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1704": {
         "nama": "YULI ROSI FARTINA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1706": {
         "nama": "GUNTUR ARIYADI, AMD. RAD.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT RADIOLOGI",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM. UNIT RADIOLOGI"
     },
     "1710": {
         "nama": "WAHYU HADIANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "1716": {
         "nama": "SELPA OKTA PUTRI HAPPI,S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1727": {
         "nama": "TRI RAHAYU PAMARDININGTYAS,S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1728": {
         "nama": "VICO ROVITA DEWI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1730": {
         "nama": "YULESTIANI KORIAH SWASTI, AMD.A.K.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1733": {
         "nama": "YUDI WIDIYANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL.SARANA ELEKTRIKAL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL.SARANA ELEKTRIKAL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL.SARANA ELEKTRIKAL"
     },
     "1734": {
         "nama": "WIWIK CRISTIAN NENGSEH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1743": {
         "nama": "DEWI IMADA FITRI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1745": {
         "nama": "EKO ERDIANA SARI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1751": {
         "nama": "GITA AMYLIA SUHARTONO,S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "1756": {
         "nama": "NINA RUSDIANA,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1757": {
         "nama": "NOVI HARIYANTI, S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1767": {
         "nama": "VERONICA YUNI ARUMING RATRI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1772": {
         "nama": "SITI KHUMAIRO SAIDAH, AMD.A.K.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1775": {
         "nama": "DR. IVAN YANONG",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1777": {
         "nama": "DIMAS EKA SETIAWAN, A.MD.TEM.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL. TEHNIK MEDIK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL. TEHNIK MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL. TEHNIK MEDIK"
     },
     "1782": {
         "nama": "TJOA INDRAWATI,M.FARM,APT.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1791": {
         "nama": "NUR INDAH SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1793": {
         "nama": "DIYAH AYU PUJI LESTARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1795": {
         "nama": "MOCHAMAD ARIEFUDIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL.SARANA ELEKTRIKAL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL.SARANA ELEKTRIKAL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL.SARANA ELEKTRIKAL"
     },
     "1797": {
         "nama": "DIAH RATNASARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1801": {
         "nama": "AMALIA HAFIDOH,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1804": {
         "nama": "ARIKA DEVI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1806": {
         "nama": "AYU DWI PRAHASTY,AMD,KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1814": {
         "nama": "EKA ULANDARI,AMD,KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1816": {
         "nama": "FARIQ ANIZA,S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK THT",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK THT"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK THT"
     },
     "1818": {
         "nama": "FITRIA SRI UTAMI,AMD,KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1822": {
         "nama": "KHALIMATUL SA`DIYAH, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1825": {
         "nama": "MAYA PUSPITA, AMD,KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1826": {
         "nama": "NERA PORMISARI,AMD,KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1827": {
         "nama": "NOVELA AYU CITA PRATIWI, AMD,KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1828": {
         "nama": "NOVIA DWI ANGGRAENI,S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1829": {
         "nama": "OCKY NOVANDRY,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1830": {
         "nama": "RISA DITA ANGGRAINI,AMD,KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1837": {
         "nama": "AGUSTA ADELIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ACCOUNTING",
+        "kd_bagian": "-",
         "Unit_Kerja": "ACCOUNTING"
     },
     "1839": {
         "nama": "LIONY CLERINTIA AGUSTIN,AMD.FIS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1843": {
         "nama": "DR. ELIZABETH HARYANTI, MH,SP.PD",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "1844": {
         "nama": "DR. UTAMA BUDISAPUTRA,SP.PD., DTM&H",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "1845": {
         "nama": "CITRA KURNIASARI,M.FARM.KLIN,APT.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT FARMASI",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM. UNIT FARMASI"
     },
     "1850": {
         "nama": "THIKA DANI LIAN SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "1859": {
         "nama": "DEVITASARI PUTRI SUGIANTO,S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "1862": {
         "nama": "DWI SUKMA INDRA NURHAYATI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1863": {
         "nama": "ELSA ISMA WARDANI,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1864": {
         "nama": "ERISKA DWI PUNGKASARI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1865": {
         "nama": "EVI NURUL NIKMA,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1867": {
         "nama": "IKA HARDINI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "1871": {
         "nama": "LINDA KHOIRUN NISA, AMD.KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1878": {
         "nama": "PUPUT AGUSTINA,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "1879": {
         "nama": "RATNA NOVITA MULYASARI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1881": {
         "nama": "RINA PRADINA,AMD.KEB",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "1887": {
         "nama": "CATUR KRIS YULIANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1888": {
         "nama": "VIDIA NURUL AINI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1889": {
         "nama": "ARISTOBULUS HEREWILA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "1891": {
         "nama": "NOVITA KARTIKA SARI,S.M",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "1892": {
         "nama": "YULI SUSANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "1893": {
         "nama": "ALFIAH ULFA, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1895": {
         "nama": "NOVENDRA FAJAR ANDIYANTO,AMD.PK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "1897": {
         "nama": "YULI EKA PRATIWI, AMD. PK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "1899": {
         "nama": "IKA DEVIATUR ROHMAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CSSD",
+        "kd_bagian": "-",
         "Unit_Kerja": "CSSD"
     },
     "1902": {
         "nama": "AGUSTINUS RICO PRAMONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "Kasubag / Kanit",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "1911": {
         "nama": "FATCHUROJI ANDRI KURNIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL. TEHNIK MEDIK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL. TEHNIK MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL. TEHNIK MEDIK"
     },
     "1913": {
         "nama": "ANDY RACHMAT",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "1914": {
         "nama": "ANANTYA RIZKY PRATIWI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "1921": {
         "nama": "NUR RURIL LYLASARI,A.MD.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "SANITASI",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > SANITASI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "SANITASI"
     },
     "1922": {
         "nama": "AHMAD WAHYU PUGUH SETIOWIBOWO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL.SARANA ELEKTRIKAL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL.SARANA ELEKTRIKAL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL.SARANA ELEKTRIKAL"
     },
     "1924": {
         "nama": "ANITA PUSPITASARI, A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1925": {
         "nama": "DIAN RATNANINGRUM, A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1927": {
         "nama": "DZIKRI AINU ROZIQIN,A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1928": {
         "nama": "FARADILLA DWI SAPUTRI,A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1929": {
         "nama": "HASANAH NUR HIDAYATI, A.MD,KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1934": {
         "nama": "LINTANG ISMI RASULANITA, A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1935": {
         "nama": "MARIA ANDRIANY, A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "1936": {
         "nama": "MUHAMMAD SHOLEH,A,MD,KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1937": {
         "nama": "NENA DEWI OKTAVI SANTOSO,A,MD,KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1938": {
         "nama": "NENENG AMBARWATI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "1941": {
         "nama": "WAHYU PRASETIYO, A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "1943": {
         "nama": "YUNITA PRIMADANI,A.MD,KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "1944": {
         "nama": "MERRY KRISTIN WARUWU, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "1949": {
         "nama": "EZRA ELSHADDAY PELLO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL.SARANA ELEKTRIKAL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL.SARANA ELEKTRIKAL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL.SARANA ELEKTRIKAL"
     },
     "1950": {
         "nama": "DIAN PUSPITASARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. MEDIS > PEMBELIAN MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMBELIAN MEDIS"
     },
     "1951": {
         "nama": "SUCI ANDAYANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1953": {
         "nama": "NENI RAHAYU NENGATI,AMD.AK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "1955": {
         "nama": "HOLIF USMAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "1957": {
         "nama": "NI PUTU SRI SARASWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ACCOUNTING",
+        "kd_bagian": "-",
         "Unit_Kerja": "ACCOUNTING"
     },
     "1960": {
         "nama": "AYNUN NAFIROH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CSSD",
+        "kd_bagian": "-",
         "Unit_Kerja": "CSSD"
     },
     "1964": {
         "nama": "FITRIA MARGARETHA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT PEMELIHARAAN",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > UNIT PEMELIHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UNIT PEMELIHARAAN"
     },
     "1965": {
         "nama": "SAMSUL DWI HATARTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "1968": {
         "nama": "WIDYA NUR LAELI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "1969": {
         "nama": "ALI MUHSIN, S.M.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "BILLING",
+        "kd_bagian": "-",
         "Unit_Kerja": "BILLING"
     },
     "1970": {
         "nama": "PRISTIA ISLAMIDANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "1971": {
         "nama": "DINI APRILIANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN NON MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. NON MEDIS > PEMBELIAN NON MEDIS"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "PEMBELIAN NON MEDIS"
     },
     "1972": {
         "nama": "KALINA RATNA DEWI,S.GZ",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "GIZI ( RAWAT INAP )",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > GIZI ( RAWAT INAP )"
+        "kd_bagian": "-",
+        "Unit_Kerja": "GIZI ( RAWAT INAP )"
     },
     "1974": {
         "nama": "PAULINE CHRISTIATI YOHENI DWIASTUTI,S.FARM,APT.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1980": {
         "nama": "DR. EDHO YULIANTO SUWARDI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. DEPT. SDM",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. DEPT. SDM"
     },
     "1982": {
         "nama": "DR. SYLVIA SUMITRO, M.B.B.S, M.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PELAYANAN MEDIS",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. PELAYANAN MEDIS"
     },
     "1983": {
         "nama": "DEWI PASKALIA ANDI DJAWARIA,M.FARM.APT.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "1986": {
         "nama": "FEBRIANA FITRI ARIKINASIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMINISTRASI GRAHA",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADMINISTRASI GRAHA"
     },
     "1990": {
         "nama": "ALEXANDRA DIBA OKTAVINA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UKS",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > UKS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UKS"
     },
     "1994": {
         "nama": "DIAH UTARI NINGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2000": {
         "nama": "KRISNA PUTRI DWI WAHYU PASHAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "2002": {
         "nama": "NI MADE PRANITYA PRADALOKA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "2009": {
         "nama": "SRI WULANDARI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "2010": {
         "nama": "DR. CHARLES WANGSADJAJA,SP.RAD",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2011": {
         "nama": "SUCI ISLAMIYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2014": {
         "nama": "SITI NURMA WIJAYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CSSD",
+        "kd_bagian": "-",
         "Unit_Kerja": "CSSD"
     },
     "2015": {
         "nama": "WULAN YUNI WAHYUNING INDAH, S.TR.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "2019": {
         "nama": "IKA DEWI ANJANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2024": {
         "nama": "DECKY SUNDAWA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2026": {
         "nama": "SRI RAHAYU WIDODO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "B O G A",
+        "kd_bagian": "-",
         "Unit_Kerja": "B O G A"
     },
     "2033": {
         "nama": "CHRISTINA PUTRI ARBADITA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PEMASARAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PEMASARAN"
     },
     "2034": {
         "nama": "TITIS INDIKASARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2038": {
         "nama": "LAURIN ANASTASIA WINARSO,M.FARM-KLIN.APT.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2041": {
         "nama": "ACHMAD RIFAI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "2044": {
         "nama": "MITA TRI DIYANTI, S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "2060": {
         "nama": "DR. FENNY PURNAMASARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PENUNJANG MEDIS",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. PENUNJANG MEDIS"
     },
     "2066": {
         "nama": "DR. TOMI SUHARTONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT CORPORATE INSURANCE",
+        "kd_bagian": "Koordinator",
         "Unit_Kerja": "ADM. UNIT CORPORATE INSURANCE"
     },
     "2082": {
         "nama": "SEPTIA AYU DAMAYANTI, S.KEP.,NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2085": {
         "nama": "DR. HANI KRISTINA SUDIARTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT EMERGENCY& INTENSIF",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM. UNIT EMERGENCY& INTENSIF"
     },
     "2092": {
         "nama": "ELA FEBRIYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2094": {
         "nama": "HENY SULISTYOWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "2096": {
         "nama": "MARTHA KRISTINE STEFANIE",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2101": {
         "nama": "EMMATUL MAULIDIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "2104": {
         "nama": "RINA LUMBANTOBING, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG JB2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG JB2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG JB2"
     },
     "2105": {
         "nama": "SITI CHOIRUN NISA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "2113": {
         "nama": "YENI SUDARRAHMAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "2114": {
         "nama": "ALLDY SEPTYUSENDA SALAM, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "2115": {
         "nama": "BIBIN SETIAWAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "2116": {
         "nama": "DIAN ASTARI AMELIA, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2119": {
         "nama": "MUHAMMAD TAUFIQ NURROHMAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMELIHARAAN SIPIL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMELIHARAAN SIPIL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMELIHARAAN SIPIL"
     },
     "2121": {
         "nama": "BELA KARTIKA UI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT PERBENDAHARAAN",
+        "kd_bagian": "Koordinator",
         "Unit_Kerja": "ADM. UNIT PERBENDAHARAAN"
     },
     "2126": {
         "nama": "ANGGUN SETIANINGSIH, S.KEP., NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "2131": {
         "nama": "ROKHMADATUL AZIZAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2133": {
         "nama": "SYARIF HIDAYAT",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2140": {
         "nama": "ARROHIM NUR HUDA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2141": {
         "nama": "ADHELIA BUNGA ARMADANI, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "2142": {
         "nama": "ACHMAD ALI SYAIFUDDIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2143": {
         "nama": "ALMA AGUSTINA KUSWANSARI, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HOME CARE",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT ASUHAN KEPRWTN,HOMECARE & GIZI > HOME CARE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HOME CARE"
     },
     "2144": {
         "nama": "ANGGRIE OKTAVIAN PANGESTU",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2145": {
         "nama": "VINDA DWI JAYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "2149": {
         "nama": "MEGA VITADHIANTY, A.MD. KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "2154": {
         "nama": "ANGELICA PUTRI RASMONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "2155": {
         "nama": "PUTRI PRASETYA NINGTYAS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "2156": {
         "nama": "CINTYA FEBRI PRASETYOWATI, A.MD. KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ICU / ICCU",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > ICU / ICCU"
+        "kd_bagian": "-",
+        "Unit_Kerja": "ICU / ICCU"
     },
     "2158": {
         "nama": "INAYATI RAKHMAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT DIK.PENG.AN.SDM",
-        "Unit_Kerja": "DEPARTEMEN SDM > UNIT DIK.PENG.AN.SDM > UNIT DIK.PENG.AN.SDM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UNIT DIK.PENG.AN.SDM"
     },
     "2159": {
         "nama": "REGITA DAYU PUTRI NINGTYAS, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "2161": {
         "nama": "RANDI ADITYA PAMBUDI, S.TR.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "SANITASI",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > SANITASI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "SANITASI"
     },
     "2162": {
         "nama": "DR. OKKY IMANUEL SAMATHA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2165": {
         "nama": "NAILY FITROTIN NUFUS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2166": {
         "nama": "LISA MEFIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2167": {
         "nama": "MOHAMMAD ALFAN THORIQ",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2168": {
         "nama": "MERRY FRANSISCA BERHITU",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2173": {
         "nama": "RIZALATUN NURIYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "2174": {
         "nama": "DEVI KURNIA PUSPITA RINI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UKS",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > UKS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UKS"
     },
     "2175": {
         "nama": "PUTRI AGUSTIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2177": {
         "nama": "DWI ROMAHDIANSAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "2181": {
         "nama": "CINDY ANISA WIDYA CANDRA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CSSD",
+        "kd_bagian": "-",
         "Unit_Kerja": "CSSD"
     },
     "2184": {
         "nama": "YEREMIAS LAHA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2185": {
         "nama": "DEFADA SADEWO KUSUMA WARDHANA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2194": {
         "nama": "SUHAIMI FERDIANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2195": {
         "nama": "FAISHAL EKA PUTRA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2198": {
         "nama": "ONE SAFETY BUDI LINDAYANA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "2199": {
         "nama": "SITI NURAISAH,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "2201": {
         "nama": "FEBRIANA, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "2206": {
         "nama": "HINGGIS SAVIRA SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "2209": {
         "nama": "ILHAM PANDU KUMARA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2215": {
         "nama": "WENNY WINDRA NOVIA, S.GZ.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "GIZI ( RAWAT INAP )",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > GIZI ( RAWAT INAP )"
+        "kd_bagian": "-",
+        "Unit_Kerja": "GIZI ( RAWAT INAP )"
     },
     "2216": {
         "nama": "OLIVIA EXCELLINE VIRSANIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2222": {
         "nama": "MOH ZONI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2223": {
         "nama": "KHOYROTUNNISA` FITRIYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2224": {
         "nama": "JURIYEH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "2227": {
         "nama": "ANDRISA KURNIA DWIANANTA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2231": {
         "nama": "AVINDA FEBRIANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG J3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG J3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG J3"
     },
     "2232": {
         "nama": "MALIKATUS ZAHRAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2242": {
         "nama": "TAUFIKI RIDLOMA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2245": {
         "nama": "HILYATUL HUSNA AZIZAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "2247": {
         "nama": "SASKIA IRAWAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2248": {
         "nama": "MOCHAMAD ISMAIL",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ACCOUNTING",
+        "kd_bagian": "-",
         "Unit_Kerja": "ACCOUNTING"
     },
     "2250": {
         "nama": "HUMAIROH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2251": {
         "nama": "JERREMY DEAN HENDIRA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "2254": {
         "nama": "ARGO GALIH PRIBADI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2255": {
         "nama": "NOVA AYU LIESTYONINGRUM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT KESEJAHTERAAN & KESELAMATAN KARYAWAN",
-        "Unit_Kerja": "DEPARTEMEN SDM > UNIT KSJTRAAN & KESLMTN KARY. > UNIT KESEJAHTERAAN & KESELAMATAN KARYAWAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UNIT KESEJAHTERAAN & KESELAMATAN KARYAWAN"
     },
     "2264": {
         "nama": "ULIN NURI MAULUDIYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT REKRUTMEN & PENILAIN KINERJA",
-        "Unit_Kerja": "DEPARTEMEN SDM > UNIT REKRUTMEN & PENILAIN KINERJA > UNIT REKRUTMEN & PENILAIN KINERJA"
+        "kd_bagian": "Kasubag / Kanit",
+        "Unit_Kerja": "UNIT REKRUTMEN & PENILAIN KINERJA"
     },
     "2277": {
         "nama": "RIZA YULIANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "2278": {
         "nama": NaN,
@@ -2414,452 +2414,452 @@
     "2279": {
         "nama": "JERRY ARGA DEWANTARA TULLE",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2281": {
         "nama": "HAPPY YOSHIKO SATO FIRDAUS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2282": {
         "nama": "SUKMA LUCKYTASARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "2283": {
         "nama": "LUTHFI FAUZIYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "2291": {
         "nama": "ANDRIK HARIANTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMELIHARAAN SIPIL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMELIHARAAN SIPIL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMELIHARAAN SIPIL"
     },
     "2294": {
         "nama": "SETYO ANDAHRINO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2295": {
         "nama": "SITI NUR ISTIQOMAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UKS",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > UKS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UKS"
     },
     "2300": {
         "nama": "YAYUK SRI WAHYUNI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2301": {
         "nama": "JULI MANGKUTORO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2302": {
         "nama": "DYNASTY FAJAR RATNANINGRUM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "2303": {
         "nama": "ERFAN SEPTIAN BASUKI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. MEDIS > PEMBELIAN MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMBELIAN MEDIS"
     },
     "2306": {
         "nama": "M. FUAD ANGSORI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2308": {
         "nama": "NIKEN YUSELA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "2310": {
         "nama": "DANY TABA ILYASA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2311": {
         "nama": "SELFI ANGGRAENI PUTRI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "OK/RR",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT OK > OK/RR"
+        "kd_bagian": "-",
+        "Unit_Kerja": "OK/RR"
     },
     "2312": {
         "nama": "ANDRI RIFAI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN NON MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. NON MEDIS > PEMBELIAN NON MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMBELIAN NON MEDIS"
     },
     "2313": {
         "nama": "REZI NOVIANA ANGGRAENI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "HEMODIALISA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > HEMODIALISA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "HEMODIALISA"
     },
     "2314": {
         "nama": "SEFIANA PUTRI WIDIANINGRUM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "2315": {
         "nama": "DR. ALIFAH RAHMI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "Kasubag / Kanit",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "2320": {
         "nama": "TRISKA MIRANDA KRISTANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 3",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 3"
     },
     "2321": {
         "nama": "LUTFIA MAY AYU WIDIANINGRUM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 3",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 3"
     },
     "2323": {
         "nama": "AFNI PRAVITA BUNGA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK NYERI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK NYERI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK NYERI"
     },
     "2325": {
         "nama": "DESTY DWI PERMATA SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "2326": {
         "nama": "SATYA PRAMARTHA VICAKSANA PUTRA, S.TR. KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "2328": {
         "nama": "WAHYU EKA KURNIAWAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2329": {
         "nama": "MUHAMMAD IQBAL WARDANA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PEMASARAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PEMASARAN"
     },
     "2332": {
         "nama": "TEGUH IMAM WAHYUDI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT REKRUTMEN & PENILAIN KINERJA",
-        "Unit_Kerja": "DEPARTEMEN SDM > UNIT REKRUTMEN & PENILAIN KINERJA > UNIT REKRUTMEN & PENILAIN KINERJA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UNIT REKRUTMEN & PENILAIN KINERJA"
     },
     "2334": {
         "nama": "JOANKA DELANEIRA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "2336": {
         "nama": "DEDY SUMARYONO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL.SARANA ELEKTRIKAL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL.SARANA ELEKTRIKAL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL.SARANA ELEKTRIKAL"
     },
     "2338": {
         "nama": "AMALIA MAHARANI PUTRI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "2339": {
         "nama": "SYARIFAH CHOIRIYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UKS",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > UKS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UKS"
     },
     "2340": {
         "nama": "RIZKI EKA PUTRA SUSTIYANDI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMEL.SARANA ELEKTRIKAL",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT PEMELIHARAAN > PEMEL.SARANA ELEKTRIKAL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMEL.SARANA ELEKTRIKAL"
     },
     "2344": {
         "nama": "SHERINA BELLA ANJANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PEMASARAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PEMASARAN"
     },
     "2345": {
         "nama": "EFI SULISTIYANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PEMASARAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PEMASARAN"
     },
     "2350": {
         "nama": "SEPTI INDAH PUSPITASARI PUTRI , AMD. KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "2353": {
         "nama": "YETIK OKTAVIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2354": {
         "nama": "CHRISTIAN TEDDY GUNAWAN, S.FARM. APT",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. MEDIS > PEMBELIAN MEDIS"
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "PEMBELIAN MEDIS"
     },
     "2358": {
         "nama": "AL MUHTADI AMBARAK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2361": {
         "nama": "APT. HERSINDY SORITON, S. FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2362": {
         "nama": "APT. SYALZA MUMPUNI KUSUMA DEWI, S.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2365": {
         "nama": "RIZAL FATHURRAHMAN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2366": {
         "nama": "FADHILLAH DWINDA ANGGRAENI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2368": {
         "nama": "DELIA GALINA PUTRI, S. GZ",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "GIZI ( RAWAT INAP )",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > GIZI ( RAWAT INAP )"
+        "kd_bagian": "-",
+        "Unit_Kerja": "GIZI ( RAWAT INAP )"
     },
     "2372": {
         "nama": "MILA RAHAYUNINGTYA, AMD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2373": {
         "nama": "ERNI ROHMATIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2375": {
         "nama": "HESTI IRAMAJAWATI, S.KEB., BD",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "2376": {
         "nama": "ZIDNI ALFIAN BARIK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ACCOUNTING",
+        "kd_bagian": "-",
         "Unit_Kerja": "ACCOUNTING"
     },
     "2377": {
         "nama": "DR. ALFIAN SATRIA WICAKSANA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2378": {
         "nama": "APT. DEDI IRAWANTO, S.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2379": {
         "nama": "APT. MAULANA ALDI ASHARI, S.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2380": {
         "nama": "ROHMAH DWI RAHYUNI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADMINISTRASI GRAHA",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMINISTRASI GRAHA"
     },
     "2381": {
         "nama": "WINDA KURNIA SARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN NON MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. NON MEDIS > PEMBELIAN NON MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMBELIAN NON MEDIS"
     },
     "2384": {
         "nama": "PUTRI DWI YUNIATI, A.MD.KES.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "LABORATORIUM/BANK DARAH",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT LABORATORIUM > LABORATORIUM/BANK DARAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "LABORATORIUM/BANK DARAH"
     },
     "2385": {
         "nama": "TAMARA SEFIANTI, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2386": {
         "nama": "AISYAH SHOFI NABILAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "G R A H A",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > G R A H A"
+        "kd_bagian": "-",
+        "Unit_Kerja": "G R A H A"
     },
     "2388": {
         "nama": "KRISTINA KRISAN KRISNANI, A.MD.FARM.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2389": {
         "nama": "KHOLILATUD DINIYYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2391": {
         "nama": "M. IGHBAL ANSORI W., S.TR.KES.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2392": {
         "nama": "PRESILIA NOVITA SARI, A.MD. FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2393": {
         "nama": "INANDA DIAH PERMATASARI, A.MD. FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2394": {
         "nama": "INZAN MEDICHA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2395": {
         "nama": "ANDIKA DIO WIDIANSYAH, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "2397": {
         "nama": "AMIRUL ILMI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PEMBELIAN NON MEDIS",
-        "Unit_Kerja": "DEPARTEMEN LOGISTIK > UNIT PEMB. NON MEDIS > PEMBELIAN NON MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PEMBELIAN NON MEDIS"
     },
     "2398": {
         "nama": "ERTA AULIA RAHMA FRINDANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "2400": {
         "nama": "ANGELS NADAA REGITA, A.MD.KES.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "2403": {
         "nama": "EKA TRIA ANANTA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT REKRUTMEN & PENILAIN KINERJA",
-        "Unit_Kerja": "DEPARTEMEN SDM > UNIT REKRUTMEN & PENILAIN KINERJA > UNIT REKRUTMEN & PENILAIN KINERJA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UNIT REKRUTMEN & PENILAIN KINERJA"
     },
     "2406": {
         "nama": "AUDREY LOUISSIA HERMAN, S.K.M",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PEMASARAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PEMASARAN"
     },
     "2408": {
         "nama": "FIRDANTY SAVIRRA INSANI, S.KEP., NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UKS",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > UKS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UKS"
     },
     "2409": {
         "nama": "DR. VIOLETTA WIKA PRATAMA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2411": {
         "nama": "NAFA IVANTI PERMATA DEWI, A.MD.AK.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2413": {
         "nama": "ABDURROZZAAQ",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2415": {
         "nama": "SHINTA DAMAYANTI, S.M.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2416": {
         "nama": "ISNANDA DENNY SOGGY RACHMAD, S.KOM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2417": {
         "nama": "APT. GITA VIRGIYAMA MASRIFANY, S.FARM.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2418": {
         "nama": "FARIDHOTUL MEI SAROH, A.MD. FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2421": {
         "nama": NaN,
@@ -2876,260 +2876,260 @@
     "2424": {
         "nama": "AHMAD NGAFIF MUKHLISIN, S.AK.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "UNIT KESEJAHTERAAN & KESELAMATAN KARYAWAN",
-        "Unit_Kerja": "DEPARTEMEN SDM > UNIT KSJTRAAN & KESLMTN KARY. > UNIT KESEJAHTERAAN & KESELAMATAN KARYAWAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "UNIT KESEJAHTERAAN & KESELAMATAN KARYAWAN"
     },
     "2426": {
         "nama": "BINTANG WAHYU PRATAMA, A.MD. RAD",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2427": {
         "nama": "FARAH AFIFATUZ ZAKIYAH, A.MD. FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2428": {
         "nama": "AURA PASHA HARNUM AZZURRA, S.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PEMASARAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PEMASARAN"
     },
     "2430": {
         "nama": "WINARNI RAHAYU",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK KOSMETIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK KOSMETIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK KOSMETIK"
     },
     "2431": {
         "nama": "SURYA AHMAD DANU DWIJAYA, A.MD.FARM.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2432": {
         "nama": "DR. NICHOLAS FERNANDO PURNOMO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2433": {
         "nama": "WILLIAM YANSON ANGGONO, S.KOM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "E.D.P. (TEKNOLOGI INFORMASI)",
-        "Unit_Kerja": "DEPT. TEKNOLOGI INFORMASI > E.D.P. (TEKNOLOGI INFORMASI) > E.D.P. (TEKNOLOGI INFORMASI)"
+        "kd_bagian": "-",
+        "Unit_Kerja": "E.D.P. (TEKNOLOGI INFORMASI)"
     },
     "2435": {
         "nama": "M. ADI MASRUKHIN, S.TR.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2438": {
         "nama": "CHINDY NAMIRA FRISANANDA, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2439": {
         "nama": "YULINAR INDAH TRI OKTAVIA, A.MD.RMIK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "T.P.P",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > T.P.P"
+        "kd_bagian": "-",
+        "Unit_Kerja": "T.P.P"
     },
     "2440": {
         "nama": "DYAH APRILIA WARTONO, A.MD.KEB",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "2441": {
         "nama": "TIARA RAHILLA SUMAIDA, A.MD.KEB",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG H2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG H2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG H2"
     },
     "2445": {
         "nama": "BANGKIT MULYASARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK KOSMETIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK KOSMETIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK KOSMETIK"
     },
     "2446": {
         "nama": "SYALWA KAMILA, S.TR.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2447": {
         "nama": "DR. VINCENTIUS WILLIAM SUNUR",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2448": {
         "nama": "SYAWALIA GITA SAFITRI, S.TR.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2449": {
         "nama": "LIANA PAJOI, A.MD.KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "2450": {
         "nama": "BERLIAN CLAUDIA KAUNANG, A.MD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG D2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D2"
     },
     "2451": {
         "nama": "INDAH PUSPITASARI, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2452": {
         "nama": "AHMAD WAHYU HIDAYATULLAH, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2453": {
         "nama": "ISTIQOMAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "B O G A",
+        "kd_bagian": "-",
         "Unit_Kerja": "B O G A"
     },
     "2454": {
         "nama": "AKMAL DWI FARHANI, S.TR.KES(RAD)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "2455": {
         "nama": "GABRIELLA NOOR HIDAYAH, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2456": {
         "nama": "DR. GRACYELLA LORRAINE CHANDRA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2457": {
         "nama": "DR. LADY THERESA ADEODATA TANAYA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RAWAT DARURAT & INTENSIF",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT EMERGENCY& INTENSIF > RAWAT DARURAT & INTENSIF"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RAWAT DARURAT & INTENSIF"
     },
     "2458": {
         "nama": "FINA FEBRIANA, A.MD.AKUN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "PERBENDAHARAAN",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT PERBENDAHARAAN > PERBENDAHARAAN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "PERBENDAHARAAN"
     },
     "2460": {
         "nama": "NUR AINI NADHIFAH, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "2462": {
         "nama": "HAMIMAH, A.MD.FARM",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "G0107": {
         "nama": "PRAPTI ISWAHYUNI",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "FARMASI / KAMAR OBAT 1",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT FARMASI > FARMASI / KAMAR OBAT 1"
+        "kd_bagian": "-",
+        "Unit_Kerja": "FARMASI / KAMAR OBAT 1"
     },
     "G0110": {
         "nama": "IDAYANAH",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "M0016": {
         "nama": "DR. HINDARTO LUHUR,SPRAD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "M0019": {
         "nama": "DR. DYAS RATNANI,SPR",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "M0036": {
         "nama": "DR.ADITIAWARDANA,SPPD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "M0062": {
         "nama": "DR. KAREL RAMLI, SP.PD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "M0119": {
         "nama": "DR. LUCIA DWI PUSPITSARI, SP.RAD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "M0126": {
         "nama": "DR. MERLIN GUNTUR JAYA, SP.RAD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "M0127": {
         "nama": "DR. RATRI DINAR PARAMITA, SP.RAD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "RADIOLOGI/USG",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT RADIOLOGI > RADIOLOGI/USG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RADIOLOGI/USG"
     },
     "M0135": {
         "nama": "ABDUL ROSID",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "M0142": {
         "nama": "DR. ARNOLD BOBBY SOEHARTONO, SP. PD, FPCP",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "M0143": {
         "nama": "DR. TJOA NATHASIA, SP. PD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "M0063": {
         "nama": "DR. WEWEN SISWANTO, SP.PD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "0875": {
         "nama": "RIANAWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK DIABET",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK DIABET"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK DIABET"
     },
     "2402": {
         "nama": NaN,
@@ -3140,8 +3140,8 @@
     "M0012": {
         "nama": "DR. SOEGIANTO WIBISONO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "0726": {
         "nama": NaN,
@@ -3164,8 +3164,8 @@
     "1216": {
         "nama": "KRISTIAN NUR IMANSYAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "2068": {
         "nama": NaN,
@@ -3176,122 +3176,122 @@
     "S0091": {
         "nama": "INDRA KURNIAWAN EFENDI",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0197": {
         "nama": "FITRIA",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0229": {
         "nama": "IRMA",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0232": {
         "nama": "MOHAMMAD DANDI SETIAWAN",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0239": {
         "nama": "SUDI EKO LESTARIONO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0244": {
         "nama": "MOCH. ANAM MATO FANI",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0247": {
         "nama": "MUHAMMAD DANI KUSDIATO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0253": {
         "nama": "ABDUS SOMAT ROMADONI",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0254": {
         "nama": "MUHAMAD REIN EFENDI",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0280": {
         "nama": "ALVIAN NEXGA AGASTYA",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0299": {
         "nama": "SYAMSUL BAGOES SANTOSO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0332": {
         "nama": "TAUFIQ ZAIN",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0343": {
         "nama": "HERI PURWANTO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0379": {
         "nama": "PATKUL ARIP",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0381": {
         "nama": "MUHAMMAD SULTON ARIFIN",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0383": {
         "nama": "KRISNA DYTA PRADANA",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0384": {
         "nama": "RIMMA IRFANTO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0387": {
         "nama": "MOCH. DANIS DWI WICAKSOSNO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0388": {
         "nama": "ROHMAD ARI SUSANTO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0389": {
         "nama": "ERPIN SETIAWAN",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "0670": {
         "nama": NaN,
@@ -3308,97 +3308,97 @@
     "G0049": {
         "nama": "DR. RA ADANINGGAR PN, SP.PD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "1526": {
         "nama": "DR. FREDY CITRA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK UMUM",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK UMUM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK UMUM"
     },
     "1848": {
         "nama": "DR. GEDE SANJAYA, M.H",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK UMUM",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK UMUM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK UMUM"
     },
     "2200": {
         "nama": "NUR LATIFAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK UMUM",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK UMUM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK UMUM"
     },
     "2293": {
         "nama": "DYAH NUR HAFIDZAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK UMUM",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK UMUM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK UMUM"
     },
     "2442": {
         "nama": "ZULYA ASTUTIK",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK UMUM",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK UMUM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK UMUM"
     },
     "2459": {
         "nama": "YESICHA IRFANY PUTRI CRISTINA, S.KEP.NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK UMUM",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK UMUM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK UMUM"
     },
     "1917": {
         "nama": "SANTI MUR PRATIWI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. PERAWATAN",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADM. PERAWATAN"
     },
     "2352": {
         "nama": "BELA NIMAS CAHAYA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK MATA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK MATA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK MATA"
     },
     "2434": {
         "nama": "EKLESIA SOPHRON, A.MD.KES",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK MATA",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK MATA"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK MATA"
     },
     "2138": {
         "nama": "ENGRITA NURCAHYANI, A.MD.KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK ORTOPAEDI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK ORTOPAEDI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK ORTOPAEDI"
     },
     "0887": {
         "nama": "UTTIE BUDI HARRINI, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK BASIL",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK BASIL"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK BASIL"
     },
     "1137": {
         "nama": "ARI ANDJINI P.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "I.K.S.",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT BILLING / IKS > I.K.S."
+        "kd_bagian": "-",
+        "Unit_Kerja": "I.K.S."
     },
     "2036": {
         "nama": "MUCHAMAD HAMSYAH, SE",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "BILLING",
+        "kd_bagian": "-",
         "Unit_Kerja": "BILLING"
     },
     "0662": {
         "nama": "HARI AGUSTIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM.UNIT BILLING/IKS",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM.UNIT BILLING/IKS"
     },
     "2257": {
         "nama": "ADI PERMANA SUWARDJI, S.T",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT TEKNOLOGI INFORMASI",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. UNIT TEKNOLOGI INFORMASI"
     },
     "0694": {
@@ -3410,61 +3410,61 @@
     "1014": {
         "nama": "DIYAN KARTIKA RINI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "I.K.S.",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT BILLING / IKS > I.K.S."
+        "kd_bagian": "-",
+        "Unit_Kerja": "I.K.S."
     },
     "1105": {
         "nama": "SULFIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "BILLING",
+        "kd_bagian": "-",
         "Unit_Kerja": "BILLING"
     },
     "1495": {
         "nama": "TITIS MAHONI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "I.K.S.",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT BILLING / IKS > I.K.S."
+        "kd_bagian": "-",
+        "Unit_Kerja": "I.K.S."
     },
     "1962": {
         "nama": "DHARU ARISTIA KUNCORO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "BILLING",
+        "kd_bagian": "-",
         "Unit_Kerja": "BILLING"
     },
     "2233": {
         "nama": "BAGAS OKTARIKO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "BILLING",
+        "kd_bagian": "-",
         "Unit_Kerja": "BILLING"
     },
     "2268": {
         "nama": "FARID ANSORI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "I.K.S.",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT BILLING / IKS > I.K.S."
+        "kd_bagian": "-",
+        "Unit_Kerja": "I.K.S."
     },
     "2347": {
         "nama": "IRMAN DIANSYAH ANANTA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "I.K.S.",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT BILLING / IKS > I.K.S."
+        "kd_bagian": "-",
+        "Unit_Kerja": "I.K.S."
     },
     "2371": {
         "nama": "REVA CINDYTA AYUNDA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "I.K.S.",
-        "Unit_Kerja": "DEPARTEMEN KEUANGAN > UNIT BILLING / IKS > I.K.S."
+        "kd_bagian": "-",
+        "Unit_Kerja": "I.K.S."
     },
     "2042": {
         "nama": "DITHA YURIKA GANTINA, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK MEDICAL C.U.",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK MEDICAL C.U."
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK MEDICAL C.U."
     },
     "2265": {
         "nama": "JEFRI KARDONO SIREGAR, S.E",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. KEUANGAN",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. KEUANGAN"
     },
     "0668": {
@@ -3476,14 +3476,14 @@
     "0704": {
         "nama": "NURIANAH, A.MD. KEP",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK JANTUNG",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK JANTUNG"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK JANTUNG"
     },
     "0881": {
         "nama": "SITI NUR SHOLIKAH,S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK MEDICAL C.U.",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK MEDICAL C.U."
+        "kd_bagian": "Koordinator",
+        "Unit_Kerja": "KLINIK MEDICAL C.U."
     },
     "1919": {
         "nama": NaN,
@@ -3494,14 +3494,14 @@
     "1747": {
         "nama": "EVI INDAWATI,AMD.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK THT",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK THT"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK THT"
     },
     "M0122": {
         "nama": "L U S I A N I",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK UMUM",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK UMUM"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK UMUM"
     },
     "0798": {
         "nama": NaN,
@@ -3524,43 +3524,43 @@
     "0785": {
         "nama": "YULIATIN",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK BEDAH",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK BEDAH"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK BEDAH"
     },
     "2304": {
         "nama": "SILVY ZURAIDA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CUSTOMER SERVICE",
+        "kd_bagian": "-",
         "Unit_Kerja": "CUSTOMER SERVICE"
     },
     "2319": {
         "nama": "ZEFANYA KIRSTEN KEZIAH KAWATU",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CUSTOMER SERVICE",
+        "kd_bagian": "-",
         "Unit_Kerja": "CUSTOMER SERVICE"
     },
     "2341": {
         "nama": "VIRA TANIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CUSTOMER SERVICE",
+        "kd_bagian": "-",
         "Unit_Kerja": "CUSTOMER SERVICE"
     },
     "2370": {
         "nama": "HERDIANTI ANGGI BESTARI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CUSTOMER SERVICE",
+        "kd_bagian": "-",
         "Unit_Kerja": "CUSTOMER SERVICE"
     },
     "2383": {
         "nama": "ADI DEDE NUR TARYANTI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CUSTOMER SERVICE",
+        "kd_bagian": "-",
         "Unit_Kerja": "CUSTOMER SERVICE"
     },
     "2412": {
         "nama": "GRACE ABIGAIL YOBEL, S.PSI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CUSTOMER SERVICE",
+        "kd_bagian": "-",
         "Unit_Kerja": "CUSTOMER SERVICE"
     },
     "M0133": {
@@ -3572,19 +3572,19 @@
     "2259": {
         "nama": "ATHALIA PUTRI P.H.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "CUSTOMER SERVICE",
+        "kd_bagian": "-",
         "Unit_Kerja": "CUSTOMER SERVICE"
     },
     "0741": {
         "nama": "TRI HERANI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "TRO",
-        "Unit_Kerja": "DEPT. PENGEMBANGAN BISNIS > UNIT HUMAS > TRO"
+        "kd_bagian": "-",
+        "Unit_Kerja": "TRO"
     },
     "2356": {
         "nama": "DR. FERRY YUNDIARTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. UNIT PEMASARAN",
+        "kd_bagian": "Kasubag / Kanit",
         "Unit_Kerja": "ADM. UNIT PEMASARAN"
     },
     "0665": {
@@ -3608,14 +3608,14 @@
     "1344": {
         "nama": "DR. HENRY GUNAWAN,SP.A.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK ANAK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK ANAK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK ANAK"
     },
     "1395": {
         "nama": "DR. ANNIE KUSUMADEWI, SPA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK ANAK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK ANAK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK ANAK"
     },
     "2261": {
         "nama": NaN,
@@ -3662,26 +3662,26 @@
     "M0042": {
         "nama": "DR.RADIX HADRIYANTO,SPA",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK ANAK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK ANAK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK ANAK"
     },
     "0696": {
         "nama": "SITI NUR ISTIROCHMAH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK ANAK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK ANAK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK ANAK"
     },
     "1250": {
         "nama": "SRI HARTINI, S.KEP.NS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "1763": {
         "nama": "SEPTRIA NUGRA HENI,S.KEP., NS.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D3/E3",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D3/E3"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D3/E3"
     },
     "1193": {
         "nama": NaN,
@@ -3710,14 +3710,14 @@
     "1541": {
         "nama": "JONGKI SANJAYA,ST",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "ADM. DEPT. UMUM",
+        "kd_bagian": "Manager / Ka.SPI",
         "Unit_Kerja": "ADM. DEPT. UMUM"
     },
     "1912": {
         "nama": "RIZKA HARDIYANTI YATINDE,S.KEP.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK MEDICAL C.U.",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK MEDICAL C.U."
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK MEDICAL C.U."
     },
     "2322": {
         "nama": NaN,
@@ -3770,14 +3770,14 @@
     "2292": {
         "nama": "SEPTI PUTRI KAMELIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG D4",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP I > RUANG D4"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG D4"
     },
     "2153": {
         "nama": "AL IRDA CAHYA PRASTIWI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "RUANG A2",
-        "Unit_Kerja": "DEPARTEMEN KEPERAWATAN > UNIT RAWAT INAP II > RUANG A2"
+        "kd_bagian": "-",
+        "Unit_Kerja": "RUANG A2"
     },
     "1750": {
         "nama": NaN,
@@ -3800,20 +3800,20 @@
     "S0386": {
         "nama": "DODI SUTARNO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "G0092": {
         "nama": "DR. IDA YUANITA, SP.KFR.,AIFO-K",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "G0105": {
         "nama": "DR. CAMOYA GERSOM, SP.PD",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "0638": {
         "nama": NaN,
@@ -3848,14 +3848,14 @@
     "G0097": {
         "nama": "DR. INDRIA MELIANTI, SP.PD.KGEH",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK INTERNE",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK INTERNE"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK INTERNE"
     },
     "M0120": {
         "nama": "LUSIANI",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK KOSMETIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK KOSMETIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK KOSMETIK"
     },
     "2299": {
         "nama": NaN,
@@ -3872,26 +3872,26 @@
     "S0255": {
         "nama": "DENY ARMANDA",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0346": {
         "nama": "DEDI SUTOMO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0380": {
         "nama": "ANANTA YUDISTIRA KHARISMA",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "S0385": {
         "nama": "PAMUJO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "0563": {
         "nama": NaN,
@@ -3902,80 +3902,80 @@
     "1790": {
         "nama": "DRG. YOSSI HANANDA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "1840": {
         "nama": "DRG. MELYSA WIJONO CHANDRA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "1841": {
         "nama": "DRG. NANCYTA DEWI SOENYOTO",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "2016": {
         "nama": "ANGRIANI JENIFFER SOUMOKIL,A.MD.KEP.GI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "2017": {
         "nama": "YULIDAH, A.MD.K.G.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "2100": {
         "nama": "SEPTIAN ANGGA DWI NUR FIRDAUS",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "2262": {
         "nama": "RR ELSA MAULITA SONIA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "2317": {
         "nama": "SULASTRI (E)",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "2410": {
         "nama": "FENNY FITRIA FEBRY, S.TR.KES.",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK GIGI",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK GIGI"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK GIGI"
     },
     "M0128": {
         "nama": "DR. MICHAEL PRAYOGO, SP.KFR, M.KED.KLIN, AIFO-K",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KLINIK REHAB MEDIK",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK REHAB MEDIK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK REHAB MEDIK"
     },
     "2287": {
         "nama": "DR. EVELYN GRISELDA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK MEDICAL C.U.",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK MEDICAL C.U."
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK MEDICAL C.U."
     },
     "2419": {
         "nama": "DR. YOSEPHINE VALENTINE SURYA",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK MEDICAL C.U.",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK MEDICAL C.U."
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK MEDICAL C.U."
     },
     "0424": {
         "nama": "ELLIES RETNOWATI",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "REKAM MEDIS",
-        "Unit_Kerja": "DEPARTEMEN PENUNJANG MEDIS > UNIT REKAM MEDIS > REKAM MEDIS"
+        "kd_bagian": "-",
+        "Unit_Kerja": "REKAM MEDIS"
     },
     "0736": {
         "nama": NaN,
@@ -4010,14 +4010,14 @@
     "M0065": {
         "nama": "ELLIES RETNOWATI",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "ADMISSION",
+        "kd_bagian": "-",
         "Unit_Kerja": "ADMISSION"
     },
     "S0382": {
         "nama": "SETYO ANDI PRABOWO",
         "Status_Kepegawaian": "Outsourcing",
-        "kd_bagian": "KEAMANAN KENDARAAN & WK",
-        "Unit_Kerja": "DEPARTEMEN UMUM > UNIT GRAHA > KEAMANAN KENDARAAN & WK"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KEAMANAN KENDARAAN & WK"
     },
     "2420": {
         "nama": NaN,
@@ -4028,8 +4028,8 @@
     "2097": {
         "nama": "YUNI FIRIATININGSIH",
         "Status_Kepegawaian": "Pegawai Tetap",
-        "kd_bagian": "KLINIK KULIT & KELAMIN",
-        "Unit_Kerja": "DEPARTEMEN PELAYANAN MEDIS > UNIT RAWAT JALAN > KLINIK KULIT & KELAMIN"
+        "kd_bagian": "-",
+        "Unit_Kerja": "KLINIK KULIT & KELAMIN"
     },
     "0852": {
         "nama": NaN,
